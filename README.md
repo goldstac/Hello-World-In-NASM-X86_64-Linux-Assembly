@@ -16,7 +16,12 @@ mov rax,60
 mov rdi,0
 syscall
 ```
-### Uses x86 CPU Architecture 64 Bit , Uses NASM Assembly
+💻 Details
+
+1. Uses x86 CPU Architecture (64-bit)
+
+2. Written in NASM Assembly
+3. Demonstrates Linux syscalls (write and exit)
 ## 💿 To Run
 ## Make Sure You Have NASM And ld Installed
 ```zsh
